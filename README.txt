@@ -1,0 +1,2 @@
+FlipMart website demo
+Open index.html in a browser to preview. Product search, categories, sorting and cart work locally in the browser. This is not a live e-commerce backend: login, admin, stock, delivery, real orders and payment are not connected. Do not use it to collect customer/payment data. Before launch, add secure backend, HTTPS, privacy/terms and approved payment-gateway integration. FlipMart is an independent sample brand and is not affiliated with Flipkart.
